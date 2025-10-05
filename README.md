@@ -1,5 +1,5 @@
 # get_next_line - My File Reader Function
-
+<img width="1553" height="894" alt="get_next_line" src="https://github.com/user-attachments/assets/b20ef7e4-95b3-4a88-962d-f6f8a247a292" />
 
 *My file reading line by line project*
 ---
